@@ -18,7 +18,15 @@ url("./fonts/bootstrap-icons.woff2") format("woff2");
   -moz-osx-font-smoothing: grayscale;
 }
 
-
+.custom-toggler.navbar-toggler { 
+   border-color: pink; 
+} 
+.wrapper{          
+  width:100vw; 
+  overflow-y:scroll; 
+  position:relative;
+  min-height: 145vh;
+}
 
 .bi-alarm-fill::before { content: "\f101"; }
 .bi-alarm::before { content: "\f102"; }
