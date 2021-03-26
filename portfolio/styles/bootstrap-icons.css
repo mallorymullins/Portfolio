@@ -17,7 +17,7 @@ url("./fonts/bootstrap-icons.woff2") format("woff2");
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+object-fit: cover;
 .custom-toggler.navbar-toggler { 
    border-color: pink; 
 } 
