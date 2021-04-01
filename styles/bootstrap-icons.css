@@ -17,7 +17,15 @@ url("./fonts/bootstrap-icons.woff2") format("woff2");
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+/*  background-image: url("../assets/bg-image.png") ; 
+  background-size: cover;
+    
+  background-color: #6d2eff;
 
+}*/
+.text-black{ 
+  color: cyan;
+}
 .custom-toggler.navbar-toggler { 
    border-color: pink; 
 } 
